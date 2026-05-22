@@ -32,11 +32,11 @@ AWS · Azure · Cloudflare · Supabase · Next.js · React · PostgreSQL
 | Project | Scale | Stack |
 |---|---|---|
 | 🔧 [FreePBX Enterprise Multi-Site VoIP](https://github.com/Thyrell5774/freepbx-enterprise-multisite) | 11 branches · 180+ users | FreePBX · MikroTik · Grandstream · SIP |
-| 🔧 [MikroTik Multi-Site VPN Network](https://github.com/Thyrell5774/mikrotik-vpn-multisite) | 10 sites · BGP/OSPF | MikroTik · VLANs · QoS · Dual ISP |
-| 🔧  https://github.com/Thyrell5774/grandstream-ucm-enterprise | 10 branches · 100+ users | Grandstream UCM · MikroTik · SIP Trunking |
-| 🔧 UniFi Hotel & Lodge Network + VoIP *(coming soon)* | 35 rooms · 25 APs | UniFi · FreePBX · Structured Cabling |
-| 🔧 Multi-Tenant FreePBX — 5 Companies *(coming soon)* | 5 tenants · 150+ users | FreePBX · VPN · DID · IVR |
-| 🔧 7x Multi-Branch Enterprise Deployments *(coming soon)* | 300+ users | FreePBX · Grandstream · MikroTik |
+| 🔧 [MikroTik Multi-Site VPN Network](https://github.com/Thyrell5774/mikrotik-vpn-multisite) | 11 sites · 165+ users | MikroTik · L2TP · QoS · Dual ISP |
+| 🔧 [Grandstream UCM Enterprise Deployment](https://github.com/Thyrell5774/grandstream-ucm-enterprise) | 10 branches · 150+ users | Grandstream UCM · MikroTik · SIP Trunking |
+| 🔧 [UniFi Hotel Enterprise Network + VoIP](https://github.com/Thyrell5774/unifi-hotel-enterprise-network) | 2 blocks · 3 floors · 22 APs | UniFi · UDM-SE · Grandstream UCM |
+| 🔧 [Multi-Tenant FreePBX — Business Group](https://github.com/Thyrell5774/multitenant-freepbx-business-group) | 5 tenants · 75+ users | FreePBX · VPN · DID · IVR |
+| 🔧 [Enterprise VoIP & Network Deployments](https://github.com/Thyrell5774/enterprise-voip-network-deployments) | 20+ clients · 5–20 branches | FreePBX · Grandstream · MikroTik · UniFi |
 
 ---
 
