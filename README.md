@@ -72,7 +72,9 @@ AWS · Azure · Cloudflare · Supabase · Next.js · React · PostgreSQL
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thyrellnaidoo-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/thyrellnaidoo)
+
 [![Credly](https://img.shields.io/badge/Credly-Certifications-FF6B00?style=flat-square&logo=credly)](https://credly.com/users/thyrell-naidoo)
+
 [![Email](https://img.shields.io/badge/Email-Thyrell.naidoo@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:Thyrell.naidoo@gmail.com)
 
 📍 Johannesburg, SA (UTC+2) · Available immediately for remote work  
