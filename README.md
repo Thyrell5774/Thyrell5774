@@ -32,7 +32,7 @@ AWS · Azure · Cloudflare · Supabase · Next.js · React · PostgreSQL
 | Project | Scale | Stack |
 |---|---|---|
 | 🔧 [FreePBX Enterprise Multi-Site VoIP](https://github.com/Thyrell5774/freepbx-enterprise-multisite) | 11 branches · 180+ users | FreePBX · MikroTik · Grandstream · SIP |
-| 🔧 MikroTik Multi-Site VPN Network *(coming soon)* | 10 sites · BGP/OSPF | MikroTik · VLANs · QoS · Dual ISP |
+| 🔧 [MikroTik Multi-Site VPN Network](https://github.com/Thyrell5774/mikrotik-vpn-multisite) | 10 sites · BGP/OSPF | MikroTik · VLANs · QoS · Dual ISP |
 | 🔧 Grandstream UCM Enterprise Deployment *(coming soon)* | 10 branches · 100+ users | Grandstream UCM · MikroTik · SIP Trunking |
 | 🔧 UniFi Hotel & Lodge Network + VoIP *(coming soon)* | 35 rooms · 25 APs | UniFi · FreePBX · Structured Cabling |
 | 🔧 Multi-Tenant FreePBX — 5 Companies *(coming soon)* | 5 tenants · 150+ users | FreePBX · VPN · DID · IVR |
